@@ -10,7 +10,7 @@ The majority of the skills are demonstrated in the RedAstronaut and BlueAstronau
 2. Superclass (abstract parent) and subclasses (concrete child) extensions implememented.
 3. Super keyword: Constructors, and methods. @Override implemented.
 4. Abstract class (parent) and abstract methods implemented concretely in child classes. Parent class methods referenced and utilized.
-5. Interfaces implemenextensionsted in two classes.
+5. Interfaces implemented in two classes.
 6. Java Arrays: Array reconstruction, appending, removing, indexing, filtering an array based on a variable.
 7. Private variables used with getters and setters for encapsulation and security. 
 8. Problem solving skills and programming fluency demonstrated with loops, conditionals, counts, array indexing manipulation, and print statements.
